@@ -1,8 +1,8 @@
 # maymeclayton.github.io
-Connect with me:
+Where to find me:
 
-<a href "https://github.com/maymeclayton/maymeclayton.github.io" > github </a>
+[github](https://github.com/maymeclayton/maymeclayton.github.io)
 
-<a href "https://www.linkedin.com/in/mayme-clayton-12287316a/hgithub"> linkedin </a>
+[linkedin](https://www.linkedin.com/in/mayme-clayton-12287316a/hgithub)
 
-<a href "https://stackoverflow.com/users/10239317/mayme-clayton?tab=profile"> stackoverflow </a>
+[stackoverflow](https://stackoverflow.com/users/10239317/mayme-clayton?tab=profile)
