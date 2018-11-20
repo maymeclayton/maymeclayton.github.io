@@ -1,6 +1,7 @@
 
 body{
-  background-color: #cccccc;
+  background-image: url("https://images.pexels.com/photos/434337/pexels-photo-434337.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+  background-size: cover;
   color: black;
   font-family: 'Slabo 27px', serif;
   font-size: 20px;
