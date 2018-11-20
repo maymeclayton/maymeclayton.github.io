@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: blog
 ---
 # Two weeks down...
 
